@@ -1,0 +1,9 @@
+incremental
+1. Hello
+2. If you are reading this
+3. Then you have hit the text im using for testing
+4. I hear the local speakeasy was busted the other day, where am I going to get my alcohol now? I am tryin to see the maximum length i can hit. I t looks like I can add more text than I thought. Maybe this will be the new limit?
+5. Im so very tired at the moment.
+6. Speakeasy more like sneak easy am i right?
+7. There is an 184 letter limit
+3
